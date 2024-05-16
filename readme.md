@@ -20,6 +20,9 @@
 命名為英文表示只在後端計算過程中使用
 
 
+主介面
+
+
 ![主介面](https://github.com/acain000/hot-pump/assets/112464644/6a12c94a-eee2-4ed7-9df3-1a57f1f2f0cb)
 <!--https://media.discordapp.net/attachments/727145000575434802/1046409976144478288/image.png-->
 ![主介面](https://github.com/acain000/hot-pump/assets/112464644/83a93daf-c873-4165-8a72-995e9e822935)
